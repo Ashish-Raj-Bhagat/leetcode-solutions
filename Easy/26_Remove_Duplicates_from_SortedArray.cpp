@@ -4,12 +4,7 @@ Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/descript
 
 Approach:
 - 
-
-Time Complexity: O(n)
-Space Complexity: O(1)
-
 Pattern: Array
-
 
 */
 #include <bits/stdc++.h>
